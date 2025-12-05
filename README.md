@@ -1,7 +1,7 @@
 <img width="250" align="right" src="https://c.tenor.com/_DOBjnGspYAAAAAM/code-coding.gif">
 
 <h3 align="center">
-  Welcome to Salah Eddine Zouagri's profile!
+  Welcome to Ahmed Hassan's profile!
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 </h3>
 
@@ -22,7 +22,7 @@
 
 ### Connect with Me :
 
-<a href="https://linkedin.com/in/salahzouagri" target="_blank">
+<a href="https://linkedin.com/in/ahmed-h-dev" target="_blank">
   <img src="https://img.shields.io/badge/-Salah%20Eddine%20Zouagri-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/>
 </a>
 <a href="mailto:salah.zouagri98@gmail.com" target="_blank">
