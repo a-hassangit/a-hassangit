@@ -23,8 +23,9 @@
 ## 📫 Connect with Me :
 
 <a href="https://www.linkedin.com/in/ahmed-hassan-76018b360" target="_blank">
-  <img src="https://img.shields.io/badge/Ahmed%20Hassan-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
+
 
 <a href="mailto:ahmedhassan@gmail.com">
   <img src="https://img.shields.io/badge/Email%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
