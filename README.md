@@ -26,7 +26,7 @@
   <img src="https://img.shields.io/badge/Ahmed%20Hassan-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 
-<a href="mailto:ahmedhassan@gmail.com">
+<a href="mailto:a7med.mh39@gmail.com">
   <img src="https://img.shields.io/badge/Email%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 
