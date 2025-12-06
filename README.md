@@ -20,13 +20,14 @@
 
 ---
 
-### Connect with Me :
+## 📫 Connect with Me :
 
-<a href="https://linkedin.com/in/ahmed-h-dev" target="_blank">
-  <img src="https://img.shields.io/badge/-Salah%20Eddine%20Zouagri-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/>
+<a href="https://www.linkedin.com/in/ahmed-hassan-76018b360" target="_blank">
+  <img src="https://img.shields.io/badge/Ahmed%20Hassan-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
-<a href="mailto:salah.zouagri98@gmail.com" target="_blank">
-  <img src="https://img.shields.io/badge/-salah.zouagri98@gmail.com-0077B5?style=for-the-badge&logo=Gmail&logoColor=white"/>
+
+<a href="mailto:ahmedhassan@gmail.com">
+  <img src="https://img.shields.io/badge/Email%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 
 ---
