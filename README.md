@@ -19,17 +19,19 @@
 - 🌐 Future portfolio coming soon — stay tuned!
 
 ---
+## 🔗 Connect with Me :
 
-## 📫 Connect with Me :
+<p>
+  <a href="https://www.linkedin.com/in/ahmed-hassan-76018b360/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
 
-<a href="https://www.linkedin.com/in/ahmed-hassan-76018b360" target="_blank">
-  <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
+  <a href="mailto:a7med.mh39@gmail.com">
+    <img src="https://img.shields.io/badge/Email_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
 
 
-<a href="mailto:ahmedhassan@gmail.com">
-  <img src="https://img.shields.io/badge/Email%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
 
 ### 🛠️ &nbsp;Tech Stack
 
